@@ -1,0 +1,11 @@
+button {
+  width: 150px;
+  height: 150px;
+  borde-radius: 10px;
+}
+
+#message {
+  width: 300px;
+  font-size: 50px;
+  text-align: center;
+}
